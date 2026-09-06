@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.d78d63e1.css",
-    "main.js": "/static/js/main.d0d11e41.js",
+    "main.js": "/static/js/main.90e1ad7a.js",
     "static/js/787.d5553b83.chunk.js": "/static/js/787.d5553b83.chunk.js",
     "static/media/formative-study-erasing.gif": "/static/media/formative-study-erasing.1661439363c27b30afdd.gif",
     "static/media/formative-study-drawing.gif": "/static/media/formative-study-drawing.b8ee161abdbef16c2df0.gif",
@@ -38,10 +38,13 @@
     "static/media/moleculight_additional4.jpg": "/static/media/moleculight_additional4.027e4307551acde80cc1.jpg",
     "static/media/snow-clock_additional1.jpg": "/static/media/snow-clock_additional1.1d781ad80077ee0b0437.jpg",
     "static/media/dot_full.jpg": "/static/media/dot_full.f81b46419a1e200ef1bf.jpg",
+    "static/media/murmuration_additional2.jpg": "/static/media/murmuration_additional2.e3b7591262d6336a1374.jpg",
     "static/media/rolling-pixels_smile.png": "/static/media/rolling-pixels_smile.9ae1aa04a90dda565208.png",
     "static/media/snow-clock_additional2.jpg": "/static/media/snow-clock_additional2.b315a14a9b84ffc36415.jpg",
     "static/media/snow-clock_heroshot.jpg": "/static/media/snow-clock_heroshot.bc635a3e40654275e301.jpg",
     "static/media/pneuglove_heroshot.jpg": "/static/media/pneuglove_heroshot.8f1ae78d87e45924f9cf.jpg",
+    "static/media/murmuration_heroshot.jpg": "/static/media/murmuration_heroshot.916ec891c96cb0a21c8c.jpg",
+    "static/media/murmuration_additional1.jpg": "/static/media/murmuration_additional1.f413edb9a21ed61f37a4.jpg",
     "static/media/pneuglove_additional.jpg": "/static/media/pneuglove_additional.eb0f67679fb77cbe6c84.jpg",
     "static/media/ambiguus-tiles_additional0.jpg": "/static/media/ambiguus-tiles_additional0.65bf615c57a1e2c6b07f.jpg",
     "static/media/snow-clock_additional3.jpg": "/static/media/snow-clock_additional3.e8858a52943def0e370c.jpg",
@@ -52,7 +55,6 @@
     "static/media/ambiguus-tiles_additional1.jpg": "/static/media/ambiguus-tiles_additional1.461b9b99e98fff428ed8.jpg",
     "static/media/isle-of-reflections_additional3.jpg": "/static/media/isle-of-reflections_additional3.cf7c20502e5a3c9efa7f.jpg",
     "static/media/phantom_heroshot.png": "/static/media/phantom_heroshot.d59affac7d20628461e5.png",
-    "static/media/murmuration_heroshot.jpg": "/static/media/murmuration_heroshot.64dc68140bb9a1be9802.jpg",
     "static/media/fluid3D-a-particle.webp": "/static/media/fluid3D-a-particle.f11f4c5fd4082b0efd9c.webp",
     "static/media/moleculight_heroshot.jpg": "/static/media/moleculight_heroshot.1c657413a001d001b552.jpg",
     "static/media/isle-of-reflections_additional1.jpg": "/static/media/isle-of-reflections_additional1.83ae1c31fa1762ba56ad.jpg",
@@ -90,7 +92,7 @@
     "static/media/tf-shell_heroshot.jpg": "/static/media/tf-shell_heroshot.b97cb2948eb45a745e01.jpg",
     "static/media/sound-pocket_sketch.jpg": "/static/media/sound-pocket_sketch.9a482d08897ebb1c0909.jpg",
     "static/media/fluid2D-a-particle.webp": "/static/media/fluid2D-a-particle.26c7c115975c8527eaed.webp",
-    "static/media/murmuration_thumbnail.jpg": "/static/media/murmuration_thumbnail.cde702b88b882fbd4475.jpg",
+    "static/media/murmuration_thumbnail.jpg": "/static/media/murmuration_thumbnail.2344861b0fe960bccf21.jpg",
     "static/media/rolling-pixels_diagram.png": "/static/media/rolling-pixels_diagram.0e8e84374b38b7a67a72.png",
     "static/media/coraetor_howitworks.jpg": "/static/media/coraetor_howitworks.1251e897d508488f4d50.jpg",
     "static/media/wish-blossom_thumbnail.jpg": "/static/media/wish-blossom_thumbnail.6558a76c8a7cc284cd43.jpg",
@@ -113,6 +115,7 @@
     "static/media/dot_thumbnail.jpg": "/static/media/dot_thumbnail.23dc71507daac95f0d15.jpg",
     "static/media/time-to-snow_thumbnail.jpg": "/static/media/time-to-snow_thumbnail.0d1b360f7a442fdb8b88.jpg",
     "static/media/reddot-2023-bob.png": "/static/media/reddot-2023-bob.5f2a6cc8e0f1730d77dd.png",
+    "static/media/siggraphasia2026.png": "/static/media/siggraphasia2026.4cdbebde99501d455874.png",
     "static/media/reddot-2021-bob.png": "/static/media/reddot-2021-bob.e255f8defaf64052bc2e.png",
     "static/media/uist2022.png": "/static/media/uist2022.6157fa435b580df9163d.png",
     "static/media/siggraph2023.png": "/static/media/siggraph2023.e2a89ebc08f58b73f669.png",
@@ -124,11 +127,11 @@
     "static/media/logo_thin.svg": "/static/media/logo_thin.166d22668f47b62068cbaf65319afe78.svg",
     "index.html": "/index.html",
     "main.d78d63e1.css.map": "/static/css/main.d78d63e1.css.map",
-    "main.d0d11e41.js.map": "/static/js/main.d0d11e41.js.map",
+    "main.90e1ad7a.js.map": "/static/js/main.90e1ad7a.js.map",
     "787.d5553b83.chunk.js.map": "/static/js/787.d5553b83.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d78d63e1.css",
-    "static/js/main.d0d11e41.js"
+    "static/js/main.90e1ad7a.js"
   ]
 }
